@@ -1,0 +1,9 @@
+.done {
+    text-decoration: line-through;
+}
+.taskListItem {
+    font-size: 24px;
+}
+/*form {*/
+/*    display: flex;*/
+/*}*/
