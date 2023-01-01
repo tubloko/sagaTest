@@ -16,7 +16,7 @@
     "qs": "latest"
   },
   "devDependencies": {
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "dotenv": "^8.2.0",
     "nodemon": "^2.0.2"
   }
